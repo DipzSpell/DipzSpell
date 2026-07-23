@@ -9,6 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-dipzspell.github.io-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0E14)](https://dipzspell.github.io)
 [![X](https://img.shields.io/badge/X-@DipzSpell-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0B0E14)](https://x.com/DipzSpell)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dipzspell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14)](https://linkedin.com/in/dipzspell)
+[![Instagram](https://img.shields.io/badge/Instagram-@meidipanshu-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B0E14)](https://instagram.com/meidipanshu)
 
 </div>
 
