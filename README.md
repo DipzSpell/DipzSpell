@@ -27,7 +27,7 @@ $ whoami
 
 | Project | | Stack |
 |---|---|---|
-| 📓 **[LifeNotebook](https://lifenotebook.vercel.app)** | Personal Life OS. Journaling, fitness, habits, stats — one system. | React • Vite • Supabase • Capacitor |
+| 📓 **[LifeNotebook](https://lnbook.vercel.app)** | Personal Life OS. Journaling, fitness, habits, stats — one system. | React • Vite • Supabase • Capacitor |
 | 📊 **TradeVision** | Real-time NSE market intelligence engine. `private` — you'll see it when it's ready. | FastAPI • Redis • Supabase • React + TS |
 | 🌐 **[dipzspell.github.io](https://dipzspell.github.io)** | Portfolio. Matrix ticker rain. | HTML • CSS • JS |
 
