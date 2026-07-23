@@ -18,7 +18,7 @@
 ```text
 $ whoami
 > Self-taught dev. Data Science student.
-> I don't talk about what I'm going to build. I build it.
+> Learning by building — one project at a time.
 ```
 
 ---
