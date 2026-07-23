@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dipanshu+%F0%9F%91%8B;Quant+Dev+in+the+making;NSE+F%26O+Trader+%7C+Builder;I+build+tools+I+actually+use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dipanshu+%F0%9F%91%8B;Self-taught+Developer;Fintech+%2B+Product+Builder;I+build+tools+I+actually+use" alt="Typing SVG" />
 
-**Self-taught developer • Options trader • Building at the intersection of markets & code**
+**Self-taught developer • Data Science student • Building products at the intersection of fintech & productivity**
 
 📍 Mumbai, India
 
@@ -18,10 +18,10 @@
 ## 🧠 About Me
 
 - 🎯 Aspiring **Quantitative Developer** — Data Science engineering student
-- 📈 Active **NSE F&O options trader** — I trade what I build, I build what I trade
 - 🛠️ Currently shipping **two products solo** (see below 👇)
-- 🏋️ Gym + markets + code — that's the daily loop
-- 💬 Ask me about: options data, OI analysis, Pine Script, React, FastAPI
+- 📊 Deep interest in **market data systems** — real-time pipelines, analytics engines
+- 🏋️ Gym + code — that's the daily loop
+- 💬 Ask me about: React, FastAPI, Supabase, real-time data pipelines
 
 ---
 
@@ -29,9 +29,9 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| 📓 **[LifeNotebook](https://lifenotebook.vercel.app)** | Personal Life OS — journaling, trading journal, fitness sync, habit stats. One app for everything. | React • Vite • Supabase • Capacitor |
-| 📊 **TradeVision** *(private, launching soon)* | Real-time NSE F&O market intelligence — OI buildup classification, Market Pulse scoring, Option Clock timelines | FastAPI • Supabase • Redis • React + TS |
-| 🌐 **[Portfolio](https://dipzspell.github.io)** | Dev portfolio with a Matrix-style NSE ticker rain | HTML • CSS • JS |
+| 📓 **[LifeNotebook](https://lifenotebook.vercel.app)** | Personal Life OS — journaling, fitness sync, habit tracking, stats. One app for everything. | React • Vite • Supabase • Capacitor |
+| 📊 **TradeVision** *(private, launching soon)* | Real-time NSE market intelligence platform — live data ingestion, analytics engines, composite scoring | FastAPI • Supabase • Redis • React + TS |
+| 🌐 **[Portfolio](https://dipzspell.github.io)** | Dev portfolio with a Matrix-style ticker rain animation | HTML • CSS • JS |
 
 ---
 
@@ -50,7 +50,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Domains:** Market Data Pipelines • Options Analytics • Pine Script Strategies • PWA / Mobile (Capacitor)
+**Domains:** Real-time Data Pipelines • Analytics Engines • PWA / Mobile (Capacitor) • Product Design
 
 </div>
 
