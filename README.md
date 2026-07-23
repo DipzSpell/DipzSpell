@@ -1,41 +1,38 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dipanshu+%F0%9F%91%8B;Self-taught+Developer;Fintech+%2B+Product+Builder;I+build+tools+I+actually+use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Dipanshu.;Build+in+silence.;Ship.+Repeat." alt="Typing SVG" />
 
-**Self-taught developer • Data Science student • Building products at the intersection of fintech & productivity**
+**Self-taught developer. Two products in development. Zero noise.**
 
-📍 Mumbai, India
+📍 Mumbai
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dipzspell.github.io-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0E14)](https://dipzspell.github.io)
 [![X](https://img.shields.io/badge/X-@DipzSpell-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0B0E14)](https://x.com/DipzSpell)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dipzspell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14)](https://linkedin.com/in/dipzspell)
-[![Instagram](https://img.shields.io/badge/Instagram-@meidipanshu-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B0E14)](https://instagram.com/meidipanshu)
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-- 🎯 Aspiring **Quantitative Developer** — Data Science engineering student
-- 🛠️ Currently shipping **two products solo** (see below 👇)
-- 📊 Deep interest in **market data systems** — real-time pipelines, analytics engines
-- 🏋️ Gym + code — that's the daily loop
-- 💬 Ask me about: React, FastAPI, Supabase, real-time data pipelines
+```text
+$ whoami
+> Self-taught dev. Data Science student.
+> I don't talk about what I'm going to build. I build it.
+```
 
 ---
 
-## 🚀 What I'm Building
+## ⚡ Shipping
 
-| Project | What it is | Stack |
+| Project | | Stack |
 |---|---|---|
-| 📓 **[LifeNotebook](https://lifenotebook.vercel.app)** | Personal Life OS — journaling, fitness sync, habit tracking, stats. One app for everything. | React • Vite • Supabase • Capacitor |
-| 📊 **TradeVision** *(private, launching soon)* | Real-time NSE market intelligence platform — live data ingestion, analytics engines, composite scoring | FastAPI • Supabase • Redis • React + TS |
-| 🌐 **[Portfolio](https://dipzspell.github.io)** | Dev portfolio with a Matrix-style ticker rain animation | HTML • CSS • JS |
+| 📓 **[LifeNotebook](https://lifenotebook.vercel.app)** | Personal Life OS. Journaling, fitness, habits, stats — one system. | React • Vite • Supabase • Capacitor |
+| 📊 **TradeVision** | Real-time NSE market intelligence engine. `private` — you'll see it when it's ready. | FastAPI • Redis • Supabase • React + TS |
+| 🌐 **[dipzspell.github.io](https://dipzspell.github.io)** | Portfolio. Matrix ticker rain. | HTML • CSS • JS |
 
 ---
 
-## ⚡ Tech Stack
+## 🛠 Arsenal
 
 <div align="center">
 
@@ -50,13 +47,11 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Domains:** Real-time Data Pipelines • Analytics Engines • PWA / Mobile (Capacitor) • Product Design
-
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Proof of Work
 
 <div align="center">
 
@@ -73,8 +68,6 @@
 
 <div align="center">
 
-*"Build the tools you wish existed."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=DipzSpell&color=22D3EE&style=flat-square&label=Profile+Views)
+**`Work in silence. Let the commits make the noise.`**
 
 </div>
