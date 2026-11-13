@@ -56,12 +56,16 @@ $ whoami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DipzSpell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=22D3EE&icon_color=A3E635&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipzSpell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=22D3EE&text_color=c9d1d9" alt="Top Languages" height="165" />
+<img src="./profile/stats.svg" alt="GitHub Stats" height="165" />
+<img src="./profile/top-langs.svg" alt="Top Languages" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=DipzSpell&theme=tokyonight&hide_border=true&background=0B0E14&ring=22D3EE&fire=A3E635&currStreakLabel=22D3EE" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DipzSpell&theme=tokyo-night&hide_border=true&bg_color=0B0E14&color=22D3EE&line=A3E635&point=F87171" alt="Activity Graph" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/contributions-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/contributions-light.svg" />
+  <img src="./profile/contributions-dark.svg" alt="Contribution graph" width="95%" />
+</picture>
 
 </div>
 
